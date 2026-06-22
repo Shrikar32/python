@@ -1,0 +1,20 @@
+# #string methods
+# name = input("Enter your name: ")
+# print(f"Hello, {name}!")
+# result = len(name)
+# print(f"The length of your name is: {result} characters.")
+# result1 = name.upper()
+# print(f"Your name in uppercase is: {result1}")
+# result2 = name.lower()
+# print(f"Your name in lowercase is {result2}")
+# result3 = name.find("a")
+# print(f"The index of the first occurrence of 'a' in your name is: {result3}")
+# result4 = name.replace("a", "x")
+# print(f"Your name with 'a' replaced by 'x' is: {result4}")
+# result5 = name.rfind("a")
+# print(f"The index of the last occurrence of 'a' in your name is: {result5}")
+# result6 = name.split()
+# print(f"Your name split into a list of words is: {result6}")
+print(help(str))
+
+                                                                
